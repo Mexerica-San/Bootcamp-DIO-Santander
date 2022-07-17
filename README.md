@@ -1,2 +1,2 @@
 # Bootcamp-DIO-Santander
-Projetos desenvolvidos ao longo do bootcamp Santander Code Girls
+Desafio de projeto de Git/GitHub do bootcamp Santander Code Girls
