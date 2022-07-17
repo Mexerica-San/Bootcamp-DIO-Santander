@@ -1,2 +1,0 @@
-- [Comandos Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-- [Comandos cmd](https://www.uniaogeek.com.br/guia-de-comandos-cmd-terminal-do-windows/)
